@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://gitlab.com/tukiteam1/ofrp_device_samsung_universal9611'
+        default: 'https://gitlab.com/kartikhis8o/ofrp_device_samsung_universal9611'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
