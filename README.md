@@ -12,8 +12,8 @@
 
 ## Release Notes
 ```
-= 2023/04/20
-- The first available version is submitted.
+= 2023/10/03
+- Edited to directly build for m21
 ```
 
 -----
