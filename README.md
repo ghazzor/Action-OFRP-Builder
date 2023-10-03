@@ -24,13 +24,13 @@
 | ------------ | -------------------- | ------------ |
 | `SYNC_URL` | Script specified by OrangeFox | https://gitlab.com/OrangeFox/sync.git |
 | `MANIFEST_BRANCH` | Source branch | 12.1                                                         |
-| `DEVICE_TREE_URL` | Device address | https://github.com/OrangeFoxRecovery/device_xiaomi_laurel_sprout |
+| `DEVICE_TREE_URL` | Device address |https://gitlab.com/kartikhis8o/ofrp_device_samsung_universal9611 |
 | `DEVICE_TREE_BRANCH` | Device branch | fox_12.1 |
-| `DEVICE_PATH` | Device location | device/xiaomi/laurel_sprout |
+| `DEVICE_PATH` | Device location | device/samsung/universal9611 |
 | `COMMON_TREE_URL` | Common tree address |  |
 | `COMMON_PATH` | Common tree location |  |
-| `DEVICE_NAME` | Model name | laurel_sprout |
-| `MAKEFILE_NAME` | Makefile name | twrp_laurel_sprout |
+| `DEVICE_NAME` | Model name | m21 |
+| `MAKEFILE_NAME` | Makefile name | twrp_m21 |
 | `BUILD_TARGET` | Build Target Partition (boot/recovery/vendorboot) | recovery |
 
 -----
