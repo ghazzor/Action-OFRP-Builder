@@ -23,14 +23,14 @@
 | Name | Description | Example |
 | ------------ | -------------------- | ------------ |
 | `SYNC_URL` | Script specified by OrangeFox | https://gitlab.com/OrangeFox/sync.git |
-| `MANIFEST_BRANCH` | Source branch | 12.1                                                         |
-| `DEVICE_TREE_URL` | Device address |https://gitlab.com/kartikhis8o/ofrp_device_samsung_universal9611 |
-| `DEVICE_TREE_BRANCH` | Device branch | fox_12.1 |
-| `DEVICE_PATH` | Device location | device/samsung/universal9611 |
+| `MANIFEST_BRANCH` | Source branch | 11.0                                                         |
+| `DEVICE_TREE_URL` | Device address | https://github.com/ghazzor/twrp_galaxy_m21 |
+| `DEVICE_TREE_BRANCH` | Device branch | ofox-11 |
+| `DEVICE_PATH` | Device location | device/samsung/m21 |
 | `COMMON_TREE_URL` | Common tree address |  |
 | `COMMON_PATH` | Common tree location |  |
 | `DEVICE_NAME` | Model name | m21 |
-| `MAKEFILE_NAME` | Makefile name | twrp_m21 |
+| `MAKEFILE_NAME` | Makefile name | omni_m21 |
 | `BUILD_TARGET` | Build Target Partition (boot/recovery/vendorboot) | recovery |
 
 -----
